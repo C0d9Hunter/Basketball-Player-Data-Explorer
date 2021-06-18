@@ -1,5 +1,8 @@
 # Basketball-Player-Data-Explorer-Web-App-Streamlit
-![BasketBall image](image/image.jpg?raw=True "BasketBall")
+<!-- ![BasketBall image](image/image.jpg?raw=True "BasketBall") -->
+<p align=center>
+  <img src="basketball.gif?raw=True"/>
+ </p>
 
 Cette application permet d'explorer un jeu de donnée sur les joueurs de la NBA.
 1. C'est données sont collectés en fonction de l'année specifier ensuite les joueurs sont regroupes en equipes.
